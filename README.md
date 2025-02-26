@@ -1,16 +1,17 @@
-## Hi there 👋
+# Currículo
 
-<!--
-**1606200617/1606200617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Informações Pessoais
+- **Nome:** Maria Eduarda dos Santos Jorge 
+- **Idade:** 18 anos
 
-Here are some ideas to get you started:
+## Formação Acadêmica
+- **Curso:** Ciência da Computação - Unimetrocamp Wyden 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Conhecimento básico em:
+  - Word
+  - Excel
+  - PowerPoint
+  - Conhecimentos em Segurança em TI, Hardware e Software
+  - Letramento Digital
+  - Inglês: Nível básico
